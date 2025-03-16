@@ -4,7 +4,7 @@
 	"contact"				:	"Baddog-11@Pirateperfection.com \nHomepage: https://www.Pirateperfection.com \nSteamGroup: https://steamcommunity.com/groups/pirate-perfection Discord: https://www.discord.me/pirateperfection \nTS³: Parrotspeak.com",
 	"version"				:	"v2.0.0-V.I.P. Edition",
 	"blt_version"			:	2,
-	"priority"				:	993,
+	"priority"				:	400,
 	"image"					:	"Pirate Perfection Reborn Trainer! V.I.P. Edition.png",
 	"color"					:	"250 250 0",
 	"undisablable"			:	false,
