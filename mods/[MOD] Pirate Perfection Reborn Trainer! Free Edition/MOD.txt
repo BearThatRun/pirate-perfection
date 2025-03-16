@@ -4,7 +4,7 @@
 	"contact"				:	"Baddog-11@Pirateperfection.com \nHomepage: https://www.Pirateperfection.com \nSteamGroup: https://steamcommunity.com/groups/pirate-perfection Discord: https://www.discord.me/pirateperfection \nTS³: Parrotspeak.com",
 	"version"				:	"v2.0.0-Free Edition",
 	"blt_version"			:	2,
-	"priority"				:	991,
+	"priority"				:	400,
 	"image"					:	"Pirate Perfection Reborn Trainer! Free Edition.png",
 	"color"					:	"0 200 255",
 	"undisablable"			:	false,
